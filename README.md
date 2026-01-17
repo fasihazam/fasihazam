@@ -10,7 +10,7 @@ Beyond the code, I mentor aspiring developers, contribute to the Flutter communi
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fasihazam) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/fasihazam) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@fasihazam) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=About.me&logoColor=white)](https://fasihazam.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/fasihazam](https://www.linkedin.com/in/fasih-azam-990b18198/)) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=About.me&logoColor=white)]([https://fasihazam.dev](https://drive.google.com/file/d/1-m4CGeM8737nFk4s5Mw8g35Jfvc2gn1j/view?usp=sharing))
 
 ---
 
